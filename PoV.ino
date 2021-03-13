@@ -79,7 +79,7 @@ Also note Card Detect (CD) and Data Pin defines.
 #define TRIGGER_PIN 34 // The pin to use to indicate the start possition
 #define ENCODER_PIN 35 // The pin to use for the encoder input if an encoder is used.
 #define ENCODER_PULSES_PER_REVOLUTION 400 // If this was a 400 pulse encoder it should be 400. 0 means no encoder, use timmed revolution from start
-#define LED_SENDS_PER_REVOLUTION 18 // The number of time to send data top the LED's per revolution 
+#define LED_SENDS_PER_REVOLUTION 18 // The number of times to send data top the LED's per revolution 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 // End PoV defines //////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
