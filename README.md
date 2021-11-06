@@ -1,9 +1,9 @@
 # PoV-Spinner
-Persistence of Vision Spinner for xLights using teh FSEQLib and FaslLED.
+Persistence of Vision Spinner for xLights using the FSEQLib and FaslLED.
 
 **Note:** The FSEQLib library currently does not support version two compressed FSEQ format. Please read the instructions on the [FSEQLib libraries Github page](https://github.com/ShaunPrice/FSEQLib) for configuring xLights.
 
-## Configureation ##
+## Configuration ##
 
 You need to set up the following in the code:
 ``` C
